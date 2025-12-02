@@ -125,7 +125,7 @@ function initScrollAnimations() {
 
 // Typing animation
 function initTypingAnimation() {
-    const text = "Hello, I'm Pravin Deshmukh";
+    const text = "Hello, I'm Vishal Jadhav";
     const typingElement = document.querySelector('.typing-animation');
     
     if (typingElement) {
